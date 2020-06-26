@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Angular7QuickStart-three"
+    }
+  },
+  "defaultProject": "Angular7QuickStart-three",
+  "cli": {
+    "analytics": false
+  }
 }
